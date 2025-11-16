@@ -15,15 +15,3 @@
 <p align=center>
   <img src="https://komarev.com/ghpvc/?username=Wiraproject&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-
-##
-
-🧰 Language  
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,python,js,php,html,css" />
-</p>
-
-🔧 Library & Framework
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,vue,tailwind,laravel,nodejs" />
-</p>
