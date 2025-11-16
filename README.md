@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/wiranto-071334347">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2?style=flat" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" style="border-radius:50%; background:#0A66C2; padding:5px;" />
   </a>
   &nbsp;
   <a href="https://instagram.com/wiiranto_">
