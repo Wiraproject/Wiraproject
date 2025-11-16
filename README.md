@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">hey there 👋</h1>
 
-<!--
-**Wiraproject/Wiraproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/wiranto-071334347">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/wiiranto_">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Language  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,java,dart" />
+</p>
+
+## 🔧 Library & Framework
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,tailwind,laravel,nodejs" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" />
+</p>
+
+---
+
