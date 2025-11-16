@@ -1,9 +1,10 @@
-<h1 align="center">Welcome to My GitHub Profile 🚀</h1>
+<h1>Assalamualaikum Sanak</h1>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/wiranto-071334347">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/wiiranto_">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
