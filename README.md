@@ -1,14 +1,14 @@
 <p>
   <a href="https://linkedin.com/in/wiranto-071334347">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/wiiranto_">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="30" />
   </a>
-  <p align="center">
+  <a>
     <img src="https://komarev.com/ghpvc/?username=Wiraproject&style=flat-square&color=blue" alt="Profile Views" />
-  </p>
+  </a>
 </p>
 
 ---
