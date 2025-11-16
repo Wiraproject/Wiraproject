@@ -6,9 +6,9 @@
   <a href="https://instagram.com/wiiranto_">
     <img src="https://skillicons.dev/icons?i=instagram" width="30" />
   </a>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Wiraproject&style=flat-square&color=blue" alt="Profile Views" />
-  </p>
+</p>
+<p align=center>
+  <img src="https://komarev.com/ghpvc/?username=Wiraproject&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 --
