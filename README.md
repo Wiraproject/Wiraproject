@@ -1,5 +1,3 @@
-<h1>Assalamualaikum Sanak</h1>
-
 <p>
   <a href="https://linkedin.com/in/wiranto-071334347">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
