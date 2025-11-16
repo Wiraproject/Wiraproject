@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRseWE3YThqcGluZHJubDV6a2YwY29mZGh1YWhrejZqZ2gyYTA2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="500" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRseWE3YThqcGluZHJubDV6a2YwY29mZGh1YWhrejZqZ2gyYTA2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="400" />
   <h3>Hi there! 👋 I'm Wiranto</h3>
   <p>
     🎓 Informatics Student at Kalimantan Institute of Technology
