@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/wiranto-071334347">
-    <img src="https://raw.githubusercontent.com/yusadolat/profile-icons/main/icons/linkedin-round.svg" width="40" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2?style=flat" width="40"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/wiiranto_">
-    <img src="https://raw.githubusercontent.com/yusadolat/profile-icons/main/icons/instagram-round.svg" width="40" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F?style=flat" width="40"/>
   </a>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Wiraproject&style=flat-square&color=blue" alt="Profile Views" />
