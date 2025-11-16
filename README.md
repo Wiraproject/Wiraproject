@@ -11,16 +11,14 @@
   </p>
 </p>
 
----
+--
 
-## 🧰 Language  
+🧰 Language  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,dart" />
+  <img src="https://skillicons.dev/icons?i=dart,python,js,php,html,css" />
 </p>
 
-## 🔧 Library & Framework
+🔧 Library & Framework
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,react,vue,tailwind,laravel,nodejs" />
 </p>
-
----
