@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/VgU0hXkGyCePnLLfHJ/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qVOGUmHt5z7aw/giphy.gif" width="200" />
   <h3>Hi there! 👋 I'm Wiranto</h3>
 </div>
 
