@@ -1,4 +1,4 @@
-<p>
+<p align=center>
   <a href="https://linkedin.com/in/wiranto-071334347">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
   </a>
