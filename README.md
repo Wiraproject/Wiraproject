@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/VgU0hXkGyCePnLLfHJ/giphy.gif" width="300" />
+  <h3>Hi there! 👋 I'm Wiranto</h3>
+</div>
+
 <p align=center>
   <a href="https://linkedin.com/in/wiranto-071334347">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
