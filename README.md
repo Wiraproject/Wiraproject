@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wiraproject&show_icons=true&theme=dark" />
 </p>
 
 ---
