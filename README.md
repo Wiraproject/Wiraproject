@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRseWE3YThqcGluZHJubDV6a2YwY29mZGh1YWhrejZqZ2gyYTA2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="200" />
   <h3>Hi there! 👋 I'm Wiranto</h3>
 </div>
 
@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=Wiraproject&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
----
+##
 
 🧰 Language  
 <p>
