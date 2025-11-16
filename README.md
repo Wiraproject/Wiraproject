@@ -13,20 +13,12 @@
 
 ## 🧰 Language  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,java,dart" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,dart" />
 </p>
 
 ## 🔧 Library & Framework
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,tailwind,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,tailwind,laravel,nodejs" />
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Wiraproject&show_icons=true&theme=dark" />
-</p>
-
----
-
